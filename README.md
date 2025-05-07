@@ -17,12 +17,12 @@ SMB-Downloader is a simple Bash script that automates the process of downloading
 
 `$ ./smbd.sh`
 
-![alt text](image.png)
+![alt text](pic/image.png)
 
 
 `$ ./smbd.sh 10.10.11.187 svc_apache 'S@Ss!K@*t13' NETLOGON,Shared,SYSVOL,Users,Web` 
 
-![alt text](image-1.png)
+![alt text](pic/image-1.png)
 
 `/tmp/10.10.11.187`
 
